@@ -1,5 +1,5 @@
 ### Hi there 👋
-<!-- - 🌱 I’m currently learning medical nature language processing. -->
+🌱 I’m currently learning medical nature language processing.
 <!--
 **LovelyDayWang/LovelyDayWang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
